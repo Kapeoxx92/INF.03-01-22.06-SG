@@ -1,0 +1,2 @@
+
+SELECT ryby_id FROM okres_ochronny WHERE wymiar_ochronny < 30;
